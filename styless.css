@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url("https://th.bing.com/th/id/Rab088ec1114ee17c62940df0bf4fc56d?rik=8UJpuedg%2b8lF3A&riu=http%3a%2f%2fhdwpro.com%2fwp-content%2fuploads%2f2016%2f11%2fSuper-Building-Wallpaper.jpg&ehk=%2bqpwklHlQNlAIYN9A02cHa7jwpNHCchwOr3imVLbJlg%3d&risl=&pid=ImgRaw");
+    background-size: cover;
+    background-position: center;
+    width:100vw;
+    height: 100vh;
+.navbar {
+	display:inline-block;
+	width:100%
+	background: grey;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+}
+.navbar a {
+	position: relative;
+	float: right;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+.navbar a:hover {
+  background: white;
+  color:black;
+  border-radius: 10px;
